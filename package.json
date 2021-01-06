@@ -11,7 +11,7 @@
     "amazon-cognito-identity-js": "^4.3.1",
     "aws-amplify": "^3.0.12",
     "aws-sdk": "^2.683.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "mobx": "^5.15.4",
     "mobx-react": "^6.2.2",
     "mobx-state-tree": "^3.16.0",
